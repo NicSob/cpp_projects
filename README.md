@@ -1,9 +1,9 @@
-# C++ Assignments
+# C++ Projects
 
 This repository contains the following C++ assignments:
 
 1. Binary Search Tree (BST) Extension
-2. Maze Generator
+2. Maze Generator (Mentioned in the CV)
 3. Knight's Tour
 
 ## Binary Search Tree (BST) Extension
